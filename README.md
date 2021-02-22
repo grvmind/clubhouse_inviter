@@ -15,6 +15,7 @@ $ python3 cli.py
 
 Переходим назад, запускаем скрипт, вводим данные
 
+$ cd ..
 $ python3 clubhouse_inviter.py
 
 Делаем цепочку :)
