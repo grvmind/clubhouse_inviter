@@ -13,7 +13,7 @@ $ pip3 install -r requirements.txt
 
 $ python3 cli.py
 
-Переходим назад, запускаем скрипт, вводим данные
+Переходим назад, запускаем скрипт, вводим данные приглашаемого человека
 
 $ cd ..
 $ python3 clubhouse_inviter.py

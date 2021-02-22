@@ -14,6 +14,6 @@ if __name__ == "__main__":
         user_device=user_device
     )
     # print(clubhouse.me())
-    name = input('Input invited person\'s name: ')
-    phone_number = input('Input invited person\'s phone number with \"+\" as +79991234567: ')
+    name = input('Enter the name of the person to invite : ')
+    phone_number = input('Enter the phone number of the person to invite with \"+\" as +79991234567: ')
     print(clubhouse.invite_to_app(name=name, phone_number=phone_number))
